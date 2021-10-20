@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizLibrary", "QuizLibrary\QuizLibrary.csproj", "{27B3E41A-05D3-43D2-8BE7-E2B66BC25D17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizApi", "QuizApi\QuizApi.csproj", "{968D3EFD-2188-4698-A5DE-989D8871762E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp", "QuizApp\QuizApp.csproj", "{CA7FF0E9-B137-4D51-930E-62C23061DD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B3E41A-05D3-43D2-8BE7-E2B66BC25D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B3E41A-05D3-43D2-8BE7-E2B66BC25D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B3E41A-05D3-43D2-8BE7-E2B66BC25D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B3E41A-05D3-43D2-8BE7-E2B66BC25D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968D3EFD-2188-4698-A5DE-989D8871762E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968D3EFD-2188-4698-A5DE-989D8871762E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968D3EFD-2188-4698-A5DE-989D8871762E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968D3EFD-2188-4698-A5DE-989D8871762E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7FF0E9-B137-4D51-930E-62C23061DD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7FF0E9-B137-4D51-930E-62C23061DD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7FF0E9-B137-4D51-930E-62C23061DD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7FF0E9-B137-4D51-930E-62C23061DD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68B25A86-D0DD-42F2-9D18-BC2A7903DC88}
+	EndGlobalSection
+EndGlobal
